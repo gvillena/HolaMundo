@@ -14,6 +14,10 @@
     <body>        
         
         <h1>Hello World!</h1>
+        <h1>Hello World!</h1>
+        <h1>Hello World!</h1>
+        <h1>Hello World!</h1>
+        <h1>Hello World!</h1>
         
         <form action="HolaMundo"> 
             <input type="text" name="mensaje" value="Hola Mundo" /><br>
